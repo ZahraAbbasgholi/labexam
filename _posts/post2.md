@@ -1,6 +1,10 @@
 ---
-layout: post
 title: محتوای خاطره
+date: 2022-01-5T00:00:00+00:00
+author: Zahra
+layout: post
+permalink: /post2/
+categories: خاطره
 ---
 
 من فکرمیکردم یادگیری هر زبان برنامه نویسی به مدت زمان زیادی نیاز داره
