@@ -1,33 +1,33 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
-keywords: ephesus, blog
-description: >-
-  Ephesus - Minimalist Jekyll Theme
+site: Zahra Abbasgholi
+title: Zahra Abbasgholi
+# keywords: ephesus, blog
+# description: >-
+#   Ephesus - Minimalist Jekyll Theme
 lang: en-US
-timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+timezone:  Asia/Tehran
+repo: https://zahraabbasgholi.github.io/labexam # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
+  name: Zahra Abbasgholi
+  bio: I'm student of Computer Engineer
   picture: assets/images/profile.jpg 
-  github: onepase # github username
+  github: https://github.com/ZahraAbbasgholi # github username
   twitter: onepase # twitter username
   facebook: onepase # facebook username
   instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  # youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+  # linkedin: hakantorun # linkedin username
+  email: z.abbasgholi10@email.com # email adress
 
 
 # URL settings
-url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
-permalink: pretty
+url: "https://zahraabbasgholi.github.io" # Domain Name of host. [username].github.io for github pages
+permalink: labexam
 
 markdown: kramdown
 kramdown:
