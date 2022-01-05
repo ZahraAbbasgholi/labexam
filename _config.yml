@@ -1,5 +1,5 @@
 # Site settings
-site: Zahra Abbasgholi
+site: Zahra
 title: Zahra Abbasgholi
 # keywords: ephesus, blog
 # description: >-
@@ -17,9 +17,9 @@ author:
   bio: I'm student of Computer Engineer
   picture: assets/images/profile.jpg 
   github: https://github.com/ZahraAbbasgholi # github username
-  twitter: onepase # twitter username
-  facebook: onepase # facebook username
-  instagram: onepase # instagram username
+  # twitter: onepase # twitter username
+  # facebook: onepase # facebook username
+  # instagram: onepase # instagram username
   # youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
   # linkedin: hakantorun # linkedin username
   email: z.abbasgholi10@email.com # email adress
